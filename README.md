@@ -1,2 +1,2 @@
 # Flappy-Bird
-Simple Flappy Bird game made by C#
+Simple Flappy Bird game made with C#
