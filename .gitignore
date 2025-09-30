@@ -83,3 +83,9 @@ appsettings.*.local.json
 
 # Crash dumps
 *.dmp
+
+# --- Custom rules for Flappy Bird build output ---
+!bin/Release/net8.0-windows/*.exe
+!bin/Release/net8.0-windows/*.dll
+!bin/Release/net8.0-windows/*.json
+!bin/Release/net8.0-windows/*.pdb
